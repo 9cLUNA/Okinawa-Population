@@ -14,7 +14,9 @@ Pandas library
 ## Built With
 
 * [Python 3](https://www.python.org/) - Programming language
-* [pandas](https://pandas.pydata.org/) - Software library
+* [pandas](https://pandas.pydata.org/) - Data analysis library for Python
+* [numpy](http://www.numpy.org/) - Array mathematic library for Python
+* [Matplotlib](https://matplotlib.org/) - Plotting library for Python
 
 Data
 
