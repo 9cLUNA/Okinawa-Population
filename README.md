@@ -8,7 +8,7 @@ I opted to just use Jupyter Notebook so I can easily see the results and provide
 
 ## Built With
 
-* [Python 3](https://www.python.org/) - High-level, genearl purpose programming language.
+* [Python 3](https://www.python.org/) - High-level, general purpose programming language.
 * [Jupyter Notebook](https://jupyter.org/) - Web application to create documents that contain live code and visualization.
 * [pandas](https://pandas.pydata.org/) - Analysis using data structures and operations for manipulation of numerical tables and time series.
 * [numpy](http://www.numpy.org/) - Support for large, multi-dimensional arrays and matrices, along with a large collection of mathematical functions.
