@@ -15,6 +15,7 @@ Software
 * [pandas](https://pandas.pydata.org/) - Analysis using data structures and operations for manipulation of numerical tables and time series.
 * [numpy](http://www.numpy.org/) - Support for large, multi-dimensional arrays and matrices, along with a large collection of mathematical functions.
 * [Matplotlib](https://matplotlib.org/) - Plotting library for embedding visual plots into applications such as Jupyter Notebook.
+* [Scikit-learn](https://scikit-learn.org/) - Machine learning library for Python featuring classification, regression and clustering algorithms.
 
 Data
 
