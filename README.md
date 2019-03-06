@@ -6,6 +6,10 @@ The goal here is to use python with pandas to see what I can do with some simple
 
 I opted to just use Jupyter Notebook so I can easily see the results and provide myself feedback. Simiply click the oki_pop.ipynb file to see the live notebook of code for the project.
 
+## Project Ended
+
+I ended this project on March 6, 2019. I found out, with assistance, that the data I choose wasn't too ideal for what my goal was. The population, in such a short amount of time, didn't have too many independent variables so the linear regression model wasn't too useful. I did, however, learn a lot on how this process works and what metrics to look for. I will put forward this knowledge for my next project.
+
 ## Built With
 
 Software
