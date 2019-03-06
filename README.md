@@ -24,3 +24,4 @@ Data
 ## Acknowledgments
 
 * All the websites I had to Google...thanks!
+* Most notably: https://stackabuse.com/linear-regression-in-python-with-scikit-learn/ & https://towardsdatascience.com/linear-regression-in-python-9a1f5f000606
