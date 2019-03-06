@@ -1,6 +1,6 @@
 # Learning python & pandas with Okinawa population data
 
-The goal here is to use python with pandas to see what the population make-up of Okinawa, Japan will be in 2020 and beyond.
+The goal here is to use python with pandas to see what I can do with some simple population data about Okinawa, Japan.
 
 ## Getting Started
 
@@ -24,4 +24,4 @@ Data
 ## Acknowledgments
 
 * All the websites I had to Google...thanks!
-* Most notably: https://stackabuse.com/linear-regression-in-python-with-scikit-learn/ & https://towardsdatascience.com/linear-regression-in-python-9a1f5f000606
+* Most notably: https://stackabuse.com/linear-regression-in-python-with-scikit-learn & https://towardsdatascience.com/linear-regression-in-python-9a1f5f000606
