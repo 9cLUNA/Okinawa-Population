@@ -1,6 +1,6 @@
 # Learning python & pandas with Okinawa population data
 
-The goal here is to use python with pandas to see what I can do with some simple population data about Okinawa, Japan.
+The goal here is to use python with pandas to see what I can do, if anything, with some simple population data about Okinawa, Japan.
 
 ## Getting Started
 
