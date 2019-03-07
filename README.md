@@ -29,3 +29,7 @@ Data
 
 * All the websites I had to Google...thanks!
 * Most notably: https://stackabuse.com/linear-regression-in-python-with-scikit-learn & https://towardsdatascience.com/linear-regression-in-python-9a1f5f000606
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details.
